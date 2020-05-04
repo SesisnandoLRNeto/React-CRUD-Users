@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Lago",
+      "email": "email@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Rodrigues",
+      "email": "maria@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Nando Neto",
+      "email": "sesisn@gmail.com"
+    },
+    {
+      "name": "Sesisnando Neto",
+      "email": "prslrneto@gmail.com",
+      "id": 4
+    }
+  ]
+}
